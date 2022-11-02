@@ -3,3 +3,9 @@ title: "Bievenue"
 ---
 
 Ces pages rassemblent les ressources proposées dans le Cagé Pédagogique.
+
+Vous trouverez les ressources sur les pages suivantes :
+
+* Ressources par branche
+* Ressources en lien avec le Référentiel Numérique
+* …
