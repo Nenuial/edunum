@@ -1,5 +1,5 @@
 ---
-title: "Bievenue"
+title: "Bienvenue"
 ---
 
 Ces pages rassemblent les ressources proposées dans le Cagé Pédagogique.
